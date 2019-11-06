@@ -2,6 +2,24 @@
 # -*- encoding: utf-8; py-indent-offset: 4 -*-
 # Braintower SMS Gateway
 
+# Copyright 2019 Fabian Binder, comNET GmbH <fabian.binder@comnetgmbh.com>
+#
+# This file is part of braintower_notifications.
+#
+# braintower_notifications is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# braintower_notifications is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with braintower_notifications.  If not, see <http://www.gnu.org/licenses/>.
+#
+
 import sys, os, urllib
 import htmllib
 import requests
